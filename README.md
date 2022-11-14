@@ -6,3 +6,6 @@ Tu veux rejoindre une activité, ou un projet existant: http://TheShifters.ch
 Tu as un projet à proposer? 
 * https://github.com/TheShifters-CH/Public/projects/1
 * UPDATE 2022: Marc nous mis sur Trello à la place: https://trello.com/w/theshiftersswitzerland1/home
+
+# étapes importantes
+* Nouveaux statuts pour 2023: Vote électronique: https://forms.gle/MhirmqA7JT5MnPSs8
