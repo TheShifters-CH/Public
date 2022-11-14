@@ -7,6 +7,9 @@ Tu as un projet à proposer?
 * https://github.com/TheShifters-CH/Public/projects/1
 * UPDATE 2022: Marc nous mis sur Trello à la place: https://trello.com/w/theshiftersswitzerland1/home
 
+Tu as des questions, besoin d'un contact ?
+* http://TheShifters.ch
+
 ## Statuts
 http://statuts.theshifters.ch
 * Version sécurisée: Candidate 2023: https://github.com/TheShifters-CH/Public/blob/main/Statuts%20The%20Shifters%20Switzerland%20v2.1%202023.pdf
