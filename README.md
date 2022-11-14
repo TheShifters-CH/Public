@@ -1,7 +1,7 @@
 # Public
 Salut et Welcome, keep cool (au sens litéral et figuré) et http://join.theshifters.ch 
 
-Tu veux rejoindre une activité, ou un projet existant: http://TheShifters.ch
+Tu veux rejoindre une activité, ou un projet existant: http://projets.TheShifters.ch
 
 Tu as un projet à proposer? 
 * https://github.com/TheShifters-CH/Public/projects/1
