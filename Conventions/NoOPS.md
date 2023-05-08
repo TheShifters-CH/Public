@@ -9,9 +9,14 @@ Lutte contre l'obsolescence programmée et soutien l'économie circulaire. Elle 
 Soutien un lobying dans le public, le monde économique et politique, pour la décarbonation de nos systèmes économiques et de consommations. Les économies circulaires font partie des solutions soutenues par le mouvement européen des Shifters, [TheShifters.org](http://TheShifters.org).
 
 ## Engagements
+### Marque et logos, liens URL
 Dans le cadre de ce partenariat, NoOPS et The Shifters Switzerland ont convenu d'échanger leurs logos et liens respectifs sur leurs sites web. 
 
+### Partage de ressources
 Elles sont également ouvertes à d'autres possibilités de collaboration, telles que la co-organisation d'événements ou la mise en place de projets communs, dans le but de renforcer leurs synergies.
+
+### Communications
+Les actions importantes qui seront copnjointement menées pourront faire l'objet d'une campagne commune, ou unilatéralement mise en place par une des deux, mais relayée par l'autre dans la mesure où le contenu est compatible avec ses propres objectifs et engagements.
 
 ## Délais
 Ce partenariat est établi dès la signature par les deux parties, et est maintenu jusqu'à dénonciation par un des deux partis. Les annonces de partenariats sur leurs pages web et réseaux sociaux respectifs doivent alors être mis à jour pour supprimer la visibilité de ce partenriat dans les 3 mois qui suivent.
