@@ -16,7 +16,7 @@ Dans le cadre de ce partenariat, NoOPS et The Shifters Switzerland ont convenu d
 Elles sont également ouvertes à d'autres possibilités de collaboration, telles que la co-organisation d'événements ou la mise en place de projets communs, dans le but de renforcer leurs synergies.
 
 ### Communications
-Les actions importantes qui seront copnjointement menées pourront faire l'objet d'une campagne commune, ou unilatéralement mise en place par une des deux, mais relayée par l'autre dans la mesure où le contenu est compatible avec ses propres objectifs et engagements.
+Les actions importantes qui seront conjointement menées pourront faire l'objet d'une campagne commune, ou unilatéralement mise en place par une des deux, mais relayée par l'autre dans la mesure où le contenu est compatible avec ses propres objectifs et engagements.
 
 ## Délais
 Ce partenariat est établi dès la signature par les deux parties, et est maintenu jusqu'à dénonciation par un des deux partis. Les annonces de partenariats sur leurs pages web et réseaux sociaux respectifs doivent alors être mis à jour pour supprimer la visibilité de ce partenriat dans les 3 mois qui suivent.
