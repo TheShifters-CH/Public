@@ -17,4 +17,4 @@ Elles sont également ouvertes à d'autres possibilités de collaboration, telle
 Ce partenariat est établi dès la signature par les deux parties, et est maintenu jusqu'à dénonciation par un des deux partis. Les annonces de partenariats sur leurs pages web et réseaux sociaux respectifs doivent alors être mis à jour pour supprimer la visibilité de ce partenriat dans les 3 mois qui suivent.
 
 ## Conclusion
-Les asosciations NoOPS et The Shifters Switzerland sont convaincues que cette collaboration sera bénéfique pour les deux parties, ainsi que pour les communautés qu'elles servent.
+Les associations **NoOPS** et **The Shifters Switzerland** sont convaincues que cette collaboration sera bénéfique pour les deux parties, ainsi que pour les communautés qu'elles servent.
