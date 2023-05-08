@@ -18,6 +18,12 @@ Elles sont également ouvertes à d'autres possibilités de collaboration, telle
 ### Communications
 Les actions importantes qui seront conjointement menées pourront faire l'objet d'une campagne commune, ou unilatéralement mise en place par une des deux, mais relayée par l'autre dans la mesure où le contenu est compatible avec ses propres objectifs et engagements.
 
+## Membres croisés
+Les deux associations deviennent membres actives mutuellement, dans l'autre association, en tant que personne morale, avec droit de votre en AG. Elles sont donc invitées aux AG de l'autre.
+* La comptabilité des deux associations inscrivent et annulent leurs cotisations respectives, afin d'éviter des transactions bancaires inutiles.
+* La réception fictive du versement de la cotisation de l'autre association, est compensé par le versement fictif pour cotiser à l'autre association.
+* Si les montants des versements divergent entre les deux associations, la plus faible cotisation ajoute une donation pour rejoindre le montant de l'autre pour équivaler.
+
 ## Délais
 Ce partenariat est établi dès la signature par les deux parties, et est maintenu jusqu'à dénonciation par un des deux partis. Les annonces de partenariats sur leurs pages web et réseaux sociaux respectifs doivent alors être mis à jour pour supprimer la visibilité de ce partenariat dans les 3 mois qui suivent.
 
