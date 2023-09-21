@@ -1,4 +1,4 @@
-# Charte The shifters (Suisse)
+# Charte The shifters (Suisse) - ETAT DRAFT NON ADOPTE
 ## Préambule: vision, missions et valeurs
 Notre vision, nos missions et nos valeurs constituent le projet associatif des Shifters. Les principes présentés dans cette charte en découlent, et constituent le cadre des droits et devoirs des membres de l’association, afin qu’ils puissent agir de façon autonome et soutenus par les ressources de l’association en pleine cohérence avec le projet associatif.
 
