@@ -14,11 +14,12 @@ Tu as un projet à proposer?
 
 Tu as des questions, besoin d'un contact ?
 * http://TheShifters.ch
-* Meeting avec le secrétaire ? http://rdv.kotte.net
+* Meeting avec le secrétaire? => http://rdv.kotte.net
 
 ## Statuts
-http://statuts.theshifters.ch (Version 2.1, 2023-06)
-* Version sécurisée: Candidate 2023: https://github.com/TheShifters-CH/Public/blob/main/Statuts%20The%20Shifters%20Switzerland%20v2.1%202023.pdf
+http://statuts.theshifters.ch (Version 3, 2024-06)
+* 2024: https://github.com/TheShifters-CH/Public/blob/main/Statuts%20The%20Shifters%20Switzerland%20v3%20-%202024.pdf
+* 2023: https://github.com/TheShifters-CH/Public/blob/main/Statuts%20The%20Shifters%20Switzerland%20v2.1%202023.pdf
 * 2022-06-22: https://github.com/TheShifters-CH/Public/blob/main/Statuts%20The%20Shifters%20Switzerland%20v2%20(2022-06-22).pdf
 * 2020-2021:  https://github.com/TheShifters-CH/Public/blob/main/Statuts%20The%20Shifters%20Suisse_20201119%20print.pdf
 
