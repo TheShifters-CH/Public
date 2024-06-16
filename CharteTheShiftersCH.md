@@ -2,7 +2,7 @@
 Cette charte va suivre et reprendre la charte du mouvement:
 * https://www.theshifters.org/association/charte/
 
-En absence de GT pour réviser et revoir les textes ci-dessous pour une adoption au sein de l'association Suisse, les bénévoles et membres de l'association vont adopter la charte émise par la France ci-dessus. Les bénévoles et contributeurs qui veulent produire et aménager  une adaptation ci-dessous pour la simplifier ou en compléter certains points, seront bienvenus: http://rdv.kotte.net pour prendre un moment avec le secrétaire et en discuter.
+En absence de GT (Groupe de Travail) pour réviser et revoir les textes ci-dessous pour une adoption au sein de l'association Suisse, les bénévoles et membres de l'association vont adopter la charte émise par la France ci-dessus. Les bénévoles et contributeurs qui veulent produire et aménager  une adaptation ci-dessous pour la simplifier ou en compléter certains points, seront bienvenus: http://rdv.kotte.net pour prendre un moment avec le secrétaire et en discuter.
 
 ## Objet
 La présente charte a pour objet d’expliciter l’organisation interne de l’association The Shifters. Elle en précise les corps constitutifs, les instances de décision, les circuits d’information et de validation, et, plus généralement, la philosophie qui sous-tend ces choix. Ces éléments organiques constituent le cadre formel dans lequel l’association et ses membres mènent leurs actions.
