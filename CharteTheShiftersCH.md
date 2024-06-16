@@ -1,40 +1,62 @@
 # Charte The shifters (Suisse) - ETAT DRAFT NON ADOPTE
+Cette charte va suivre et reprendre la charte du mouvement:
+* https://www.theshifters.org/association/charte/
+
+En absence de GT pour réviser et revoir les textes ci-dessous pour une adoption au sein de l'association Suisse, les bénévoles et membres de l'association vont adopter la charte émise par la France ci-dessus. Les bénévoles et contributeurs qui veulent produire et aménager  une adaptation ci-dessous pour la simplifier ou en compléter certains points, seront bienvenus: http://rdv.kotte.net pour prendre un moment avec le secrétaire et en discuter.
+
+## Objet
+La présente charte a pour objet d’expliciter l’organisation interne de l’association The Shifters. Elle en précise les corps constitutifs, les instances de décision, les circuits d’information et de validation, et, plus généralement, la philosophie qui sous-tend ces choix. Ces éléments organiques constituent le cadre formel dans lequel l’association et ses membres mènent leurs actions.
+## Objectifs
+Par cette charte, les Shifters souhaitent concilier deux objectifs qui doivent se nourrir mutuellement :
+### S'engager
+permettre à tous et à chacun des Shifters de s'engager concrètement, de sa propre initiative et si besoin en parfaite autonomie, de sorte à favoriser une créativité ambitieuse qui sera essentielle pour faire face à nos enjeux de décarbonation ;
+### Respecter
+préserver les intérêts fondamentaux de l'association, au rang desquels son projet associatif rappelé ci-dessous, ainsi que sa relation au Shift Project et l'image de celui-ci.
+En cela, la charte expose les valeurs et les principes d’organisation de l’association, au-delà des structures définies dans ses seuls statuts et son règlement intérieur.
+
+# Les règles d’or des Shifters
+1. Les Shifters et The Shift Project partagent la même vision sur la réalité du changement climatique anthropique, et le besoin de sortir nos sociétés de leur dépendance aux énergies fossiles.
+2. Dans leurs travaux et leurs communications au nom de l’association, les Shifters sont alignés avec les messages et les positions du Shift Project. Les Shifters ne communiquent au nom de l’association vis-à-vis d’extérieurs que dans des cadres explicitement définis par l’association ou autorisés par son Conseil d’Administration.
+3. Dans leurs échanges, débats et travaux, les Shifters font preuve de bienveillance, de convivialité et d’ouverture d’esprit les uns envers les autres, dans un esprit de camaraderie.
+Dans ces mêmes échanges et travaux, les Shifters appliquent une grande rigueur méthodologique et s’appuient sur l’état de la connaissance scientifique.
+4. Quand ils choisissent de s’engager sur des projets, des activités ou des travaux, les Shifters le font en connaissance de cause, notamment avec une assurance raisonnable de leur disponibilité sur le projet, et s’attachent à faire preuve de professionnalisme.
+5. Les Shifters s'engagent à respecter les structures et outils de travail existants de l'association et à inscrire leurs actions, autant que faire se peut, dans ces structures et outils.
+6. Les Shifters respectent les travaux d’autrui et le patrimoine intellectuel de l’association. En particulier, tout usage qui ne serait pas bénévole doit être autorisé par l'association.
+7. Les Shifters s’engagent à n’émettre aucune information volontairement erronée, et à n’exprimer aucun propos injurieux, racistes, sexistes, diffamatoires ou contraires à la législation en vigueur sur le sujet.
+
+# La Charte des Shifters
 ## Préambule: vision, missions et valeurs
-Notre vision, nos missions et nos valeurs constituent le projet associatif des Shifters. Les principes présentés dans cette charte en découlent, et constituent le cadre des droits et devoirs des membres de l’association, afin qu’ils puissent agir de façon autonome et soutenus par les ressources de l’association en pleine cohérence avec le projet associatif.
-
-## Vision
-Les Shifters partagent sans réserve la vision du Shift Project. Ils considèrent comme acquis la réalité d’un dérèglement climatique provoqué par nos émissions de GES, de même que l’épuisement à court ou moyen-terme de nos ressources en énergies fossiles. Ils souhaitent œuvrer à la transition carbone de l’économie, afin de nous libérer de cette double contrainte changement climatique-dépendance aux énergies fossiles. Ils pensent qu’une approche objective, pragmatique mais ambitieuse et innovante, fondée sur l’utilisation rigoureuse des connaissances scientifiques et techniques, peut permettre d’orienter les décideurs politiques et économiques, à l’échelle de l’Europe, vers des solutions réalistes amenant à limiter l’ampleur et l’impact du changement climatique et à anticiper la sortie de nos sociétés de l’ère des énergies fossiles.
-
+### Vision
+Les Shifters ont pour objectif d’élaborer et diffuser des solutions pour décarboner nos sociétés, et cela pour enrayer le changement climatique et réduire leur dépendance aux énergies fossiles. Ils partagent sans réserve la vision du Shift Project sur la réalité du changement climatique et l'épuisement à court ou moyen terme des ressources en énergies fossiles
 ## Missions
 Dans ce contexte, l’association s’est donné trois missions qui sous-tendent son action:
 ### Mission d’appui: 
 Appuyer le Shift Project (“Shift”) dans ces travaux, en mettant ponctuellement à disposition de l’équipe du Shift leur force de travail et/ou leurs compétences et en réalisant des travaux dans le respect du cadre intellectuel des productions du Shift Project.
 ### Mission de développement des Shifters:
 S’informer, débattre et se former sur la décarbonation de l’économie (sous ses aspects aussi bien scientifiques que techniques et politiques, au sens large, et en termes d’enjeux, d’acteurs, de solutions et d’actualité).
-
 ### Mission de communication:
 Diffuser les idées et travaux du Shift Project dans leurs propres réseaux et développer de nouveaux réseaux pour la décarbonation de l’économie.
 
-## Valeurs
+### Valeurs
 Ces missions sont menées avec le respect des valeurs de l’association: 
 * la rigueur scientifique et technique, 
 * l’ouverture d’esprit, 
 * le professionnalisme, 
 * l’impartialité et la convivialité.
 
-### Exigence scientifique et technique
+#### Exigence scientifique et technique
 Les Shifters considèrent que pour traiter sérieusement des problématiques de changement climatique et d’épuisement des énergies fossiles il n’est pas possible de faire l’impasse sur l’étude précise et une bonne assimilation des connaissances scientifiques et techniques (au sens le plus large du terme) relatives à ces sujets et ils sont tout particulièrement attachés au fait que les lois de la physique imposent des limites, que l’économie se doit de prendre en compte. De même l’examen des différentes solutions possibles pour réaliser la transition carbone doit passer par une approche claire, factuelle et objective, faisant l’analyse de leurs avantages, de leurs inconvénients et de leur faisabilité technique, économique et sociale.
 
-### Ouverture
+#### Ouverture
 Face à la complexité et à l’importance des enjeux liés au changement climatique et à la sortie de la dépendance aux énergies fossiles, les Shifters pensent devoir faire preuve d’humilité et rester ouverts à toute proposition sérieuse et argumentée, faite de manière constructive, dans un esprit de tolérance, de respect et dialogue. Les Shifters pensent que l’ampleur du défi que représente la transition carbone nécessite aussi d’imaginer des solutions originales, innovantes et ambitieuses, et notamment de s’intéresser à la façon dont la transition est pensée et réalisée dans d’autres pays, tout particulièrement au sein de l’Union Européenne. Les Shifters sont attachés à impliquer un maximum de personnes dans la transition carbone et veillent à faire preuve de pédagogie et à se rendre accessibles aux personnes qui découvrent ce domaine.
 
-### Impartialité
+#### Impartialité
 Les Shifters sont une organisation pluraliste, indépendante de tout parti politique, de tout mouvement idéologique et de tout groupe de pression économique2 . Les Shifters ont chacun un parcours, une pensée, une personnalité qui leur sont propres mais ils n’agissent pas au sein de l’association dans le but de défendre leur intérêt personnel et ont à cœur d’œuvrer avant tout dans le souci de l’intérêt général.
 
-### Professionalisme
+#### Professionalisme
 Les Shifters cherchent à acquérir ou à développer une certaine expertise sur les questions de transition carbone. Ils veillent à rester concrets, pragmatiques, efficaces aussi bien dans l’étude de ces questions que dans le fonctionnement de l’association.
 
-### Convivialité
+#### Convivialité
 Même s’ils s’intéressent à des sujets graves et sérieux, les Shifters tiennent à voir dans la contrainte énergie-climat plutôt un défi qu’une menace. Ils s’attachent à ce que leurs activités se déroulent dans la bonne humeur et la plus grande convivialité !
 
 # I. Les principes généraux
@@ -43,7 +65,7 @@ Afin de guider leur action et leurs travaux, l’association et ses membres se r
 * **La vision et les missions des Shifters** (définis ci-dessus), qui constituent les principes fondateurs de l’association auxquels les autres principes sont subordonnés. Tout Shifter est réputé y adhérer.
 * **Les valeurs** (définies ci-dessus), qui constituent le fondement de la méthode de travail et de la communauté des adhérents. Tout Shifter est également réputé y adhérer.
 * **Les principes de fonctionnement** qui régulent les activités de l’association et ses membres. A la différence des précédents principes, ils sont circonstanciels et ne s’appliquent donc que dans certains cas. Les principes de communication constituent un exemple de principes de fonctionnement.
-* **Le référentiel intellectuel issu des travaux du Shift** qui sont un ensemble de positions et de méthodes de travail de l’association sur une liste non-exhaustive de sujets. Conformément aux valeurs d’ouverture d’esprit de l’association, les Shifters peuvent exprimer et défendre des positions non alignées avec ce référentiel dans leurs échanges et débats en interne, ainsi qu’à titre personnel en externe. Il est en revanche attendu que les livrables de travaux à destination des seuls Shifters ne pas présentent pas de contradiction manifeste avec ce référentiel. Les livrables à destination de l’extérieur doivent être conformes à ce référentiel. Les exceptions à ces règles sont arbitrées par le comité.
+* **Le référentiel intellectuel issu des travaux du Shift** qui sont un ensemble de positions et de méthodes de travail de l’association sur une liste non-exhaustive de sujets. Conformément aux valeurs d’ouverture d’esprit de l’association, les Shifters peuvent exprimer et défendre des positions non alignées avec ce référentiel dans leurs échanges et débats en interne, ainsi qu’à titre personnel en externe. Il est en revanche attendu que les livrables de travaux à destination des seuls Shifters ne présentent pas de contradiction manifeste avec ce référentiel. Les livrables à destination de l’extérieur doivent être conformes à ce référentiel. Les exceptions à ces règles sont arbitrées par le comité.
 ## b.Les trois régimes d’action des Shifters
 Afin de permettre à chacun des membres de mettre en oeuvre le projet associatif de sa propre initiative, tout en préservant les intérêts fondamentaux de l'association, on distingue trois “régimes d’actions”, du plus autonome au plus encadré:
 * **Le régime libre**, pour les activités en complète autonomie : les canaux de communication et d’échanges présentés au [titre III](https://github.com/TheShiftersCH/Public/blob/master/CharteTheShiftersCH.md#iiiles-canaux-de-communication-et-d%C3%A9changes) offrent la possibilité à chacun de rentrer en contact avec les autres membres et de lancer les activités de leur choix, sous la seule condition de respecter les principes fondamentaux et les principes de fonctionnement exposés supra. En revanche, pour bénéficier pour largement des structures et outils offerts par l'association et a fortiori pour s’exprimer au nom de celle-ci, il est impératif de s’inscrire respectivement dans les régimes “déclaratif” et “d’autorisation” définis ci-dessous.
