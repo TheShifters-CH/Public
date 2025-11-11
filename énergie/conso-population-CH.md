@@ -16,3 +16,4 @@ pptx: https://github.com/TheShifters-CH/Public/blob/main/%C3%A9nergie/conso-popu
 xlsx: https://github.com/TheShifters-CH/Public/blob/main/%C3%A9nergie/conso-population-CH.xlsx
 
 CC-BY-SA
+<img width="2001" height="1130" alt="image" src="https://github.com/user-attachments/assets/b2472fe1-eda1-4203-b39f-deac6a6b3d4e" />
