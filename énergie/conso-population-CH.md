@@ -4,3 +4,7 @@
 * Consommation par habitant (GJ/an) = (PJ × 1000) ÷ population
 * Énergie utile estimée (rendement moyen de 20 %) = conso/hab × 0.2
 * Nombre d’esclaves énergétiques = énergie utile ÷ 3.15
+
+Cf. 
+
+CC-BY-SA
