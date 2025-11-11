@@ -1,0 +1,6 @@
+## 📊 Tableau énergétique suisse (1980–2024)
+* Consommation énergétique finale (PJ) — données réelles OFEN
+* Population suisse (millions) — données historiques OFS
+* Consommation par habitant (GJ/an) = (PJ × 1000) ÷ population
+* Énergie utile estimée (rendement moyen de 20 %) = conso/hab × 0.2
+* Nombre d’esclaves énergétiques = énergie utile ÷ 3.15
