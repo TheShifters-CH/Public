@@ -6,7 +6,9 @@
 * Nombre d’esclaves énergétiques = énergie utile ÷ 3.15
 
 Data: https://github.com/TheShifters-CH/Public/blob/main/%C3%A9nergie/conso-population-CH.csv
+
 Source OFS et OFEN
+
 Cf. https://medium.com/theshifters-ch/consommations-finales-d%C3%A9nergie-en-suisse-4efe9db82f93
 
 CC-BY-SA
